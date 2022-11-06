@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Oscar</h1>
+<h1 align="center">Hola, (no)soy Oscar</h1>
 <h3 align="center">En proceso de ser un programador e interesado en el Backend</h3>
 
 <h3 align="left">Conéctate conmigo :</h3>
